@@ -1,0 +1,3 @@
+/Users/churroc/code/c++/donut/build/CMakeFiles/spinning_donut.dir
+/Users/churroc/code/c++/donut/build/CMakeFiles/edit_cache.dir
+/Users/churroc/code/c++/donut/build/CMakeFiles/rebuild_cache.dir
