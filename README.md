@@ -22,3 +22,6 @@ Actual explanation for https://www.a1k0n.net/2011/07/20/donut-math.html
 
 But will try to make it myself rn
 Lets say we create a circle 
+
+
+turn it into a mobius strip
